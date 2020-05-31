@@ -1,0 +1,33 @@
+body{
+    font-family: 'Fjalla One', sans-serif;''
+}
+h1, h2,h5 {
+    font-family: "Lobster", cursive;
+}
+h2 {
+    color: #3046C5;
+}
+header h2 {
+    color: #8000ff;
+}
+footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding:20px 0;
+}
+.jumbotron {
+    margin:0;
+    padding: 20px;
+    background-image: linear-gradient(to right, 	#D2691E, #66FF99, 	#D2691E);
+    color: white;
+}
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+
+    
+}
+.navbar{
+
+  background-color: #901CAD;  
+}
